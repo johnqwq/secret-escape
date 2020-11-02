@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":1,"list":[{"code":111,"indent":0,"parameters":[4,1,6,1]},{"code":101,"indent":1,"parameters":["Actor1",0,0,2]},{"code":401,"indent":1,"parameters":["受伤太多了吗……"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["你倒下了，再也没能醒来。"]},{"code":101,"indent":1,"parameters":["",0,0,2]},{"code":401,"indent":1,"parameters":["游戏结束。"]},{"code":353,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"游戏结束","switchId":1,"trigger":2},
 {"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
 {"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
